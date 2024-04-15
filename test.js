@@ -1,5 +1,5 @@
-let nom =prompt("entrez votre nom");
-let nombre = prompt("entre un nombre");
+let nom =console.log("votre nom");
+let nombre = console.log("votre age");
 //document.write(nombre);
 if(nombre>25)
 {
